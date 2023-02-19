@@ -57,7 +57,7 @@ abstract class Produce {
             System.out.println("Harvesting a single " + Name);
             System.out.println("Now we have " + getNumPlanted());
         } else {
-            System.out.println("We don't have enough " + Name + "for that. There are only " + numPlanted + " left");
+            System.out.println("We don't have enough " + Name + " for that. There are only " + numPlanted + " left");
         }
     }
     public void harvest(int Num) {
@@ -68,7 +68,7 @@ abstract class Produce {
             System.out.println("Harvesting a single " + Name);
             System.out.println("Now we have " + getNumPlanted());
         } else {
-            System.out.println("We don't have enough " + Name + "for that. There are only " + numPlanted + " left");
+            System.out.println("We don't have enough " + Name + " for that. There are only " + numPlanted + " left");
         }
     }
 }
