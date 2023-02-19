@@ -1,4 +1,4 @@
-public class Method1 {
+public class MethodMain {
     static void myMethod() {
         // static: method belongs to main class and is not an object of main class
         // void: method does not return any value

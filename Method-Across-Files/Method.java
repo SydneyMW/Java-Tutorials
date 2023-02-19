@@ -1,4 +1,4 @@
-public class Method2 {
+public class Method {
     // Print name String
     static void myMethod(String printName) {
         System.out.println("......myMethod received " + printName);

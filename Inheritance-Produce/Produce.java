@@ -30,6 +30,9 @@ abstract class Produce {
     public String getColor() {
         return color;
     }
+    public boolean getEdible() {
+        return edible;
+    }
     
     // METHODS
     public void plant() {
