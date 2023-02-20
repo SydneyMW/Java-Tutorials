@@ -27,5 +27,8 @@
 * ```transient:``` attributes and methods are skipped when serializing the object containing them
     
     * *"Java provides a mechanism, called object serialization where an object can be represented as a sequence of bytes that includes the object's data as well as information about the object's type and the types of data stored in the object."*
+    [Java Serialization, by TutorialsPoint](https://www.tutorialspoint.com/java/java_serialization.htm)
 * ```synchronized:``` methods can only be accessed by one thread at a time
 * ```volatile:``` the value of an attribute is not cached thread-locally, and is always read from the main memory
+
+Definitions retrieved from [W3 Schools Java Tutorials](https://www.w3schools.com/java/default.asp)
