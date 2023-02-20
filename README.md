@@ -1,10 +1,10 @@
 # Java Tutorials:
 1. Java Classes
-    a. Class Attributes
-    b. Class Methods
+    * Class Attributes
+    * Class Methods
 3. Modifiers
-    a. Access Modifiers
-    b. Non-Access Modifiers
+    * Access Modifiers
+    * Non-Access Modifiers
 4. Inheritance
 5. Polymorphism
 ---
