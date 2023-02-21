@@ -1,3 +1,49 @@
+# Java Tutorials:
+1. Java Basics
+    * Data Types
+    * Loops
+    * If Else Statements
+    * Switch Statements
+1. Java Classes
+    * Class Attributes
+    * Class Methods
+3. Modifiers
+    * Access Modifiers
+    * Non-Access Modifiers
+4. Inheritance
+5. Polymorphism
+---
+# Java Basics:
+1. Data Types
+2. Loops
+3. If Else Statements
+4. Switch Statements
+---
+## 1. Data Types
+
+### Declaring Data
+https://github.com/SydneyMW/Java-Tutorials/blob/47caa743b96dbf2d9e4014c591a3ebf2340ced0b/Classes-Basics/QuickStart.java
+
+### String
+* ```public:``` class can be accessible by any other class
+* ```default:``` if no modifier is specified, the class is only accessible by classes in the same package
+
+### Modifiers for Attributes, Methods, and Constructors
+* ```public:``` code is accessible to all classes
+* ```private:``` code is only accessible within the declared class
+* ```protected:``` code is accessible in the same paclage and subclasses
+* ```default:``` if no modifier is specified, the code is only accessible in the same package by default.
+---
+# Java Classes:
+1. Class Attributes
+2. Class Methods
+---
+## 1. Class Attributes
+
+---
+## 2. Class Methods
+
+---
 # Modifiers: 
 1. Access Modifiers
 2. Non-Access Modifiers
@@ -32,3 +78,25 @@
 * ```volatile:``` the value of an attribute is not cached thread-locally, and is always read from the main memory
 
 Definitions retrieved from [W3 Schools Java Tutorials](https://www.w3schools.com/java/default.asp)
+
+---
+# Inheritance:
+1. XX
+2. XX
+---
+## 1. XX
+
+---
+## 2. XX
+
+---
+# Polymorphism:
+1. XX
+2. XX
+---
+## 1. XX
+
+---
+## 2. XX
+
+---
