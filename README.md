@@ -14,7 +14,7 @@
     * [Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-access-modifiers)
     * [Non-Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-non-access-modifiers)
 4. [**Inheritance**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#inheritance)
-5. [**Polymorphism**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#polymorpism)
+5. [**Polymorphism**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#polymorphism)
 ---
 # Java Basics:
 1. [Printing](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing)
