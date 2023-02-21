@@ -254,22 +254,54 @@ Definitions retrieved from [W3 Schools Java Tutorials](https://www.w3schools.com
 # Inheritance:
 We can construct classes to represent "parents" and "children" of each other.  
 
-For example, if we define a parent class "Produce" and a child class "Fruit," we denote this with ```class Fruit extends Produce```.  This causes the Fruit class to inherit all of the attributes and methods defined in the parent class which are ```public``` or ```protected```.
+For example, if we define a parent class ```Produce``` and a child class ```Fruit```, we denote this with ```class Fruit extends Produce```.  This causes the Fruit class to inherit all of the attributes and methods defined in the parent class which are ```public``` or ```protected```.
 
+If the parent class is **abstract**, it cannot be directly instantiated.  Instead, objects can only be constructed from child classes of the parent.  
 
-## 1. XX
+Example: Define our parent class as an abstract class. It has private attributes, protected setter and getter functions, and public plant and harvest methods.
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Inheritance-Produce/Produce.java#L2-L74
+Now define our child class, ```Fruit```, which extends ```Produce```.  This means it has access to the protected and public methods of ```Fruit```, including the getter and setter functions, and the ```harvest``` and ```plant``` methods.  It and has additional constructers for instantiation.
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Inheritance-Produce/Produce.java#L76-L97
+We can create another child class, ```Vegetable```, which similarly extends ```Produce``` and has its own constructors.
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Inheritance-Produce/Produce.java#L99-L120
 
-
-## 2. XX
+Now, in our main class, we can instantiate fruits and vegetables, and simulate their harvesting and planting as desired using these inherited methods.
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Inheritance-Produce/ProduceMain.java#L1-L14
+This simulation in ProduceMain would give the terminal output:
+```
+javac ProduceMain
+Planting 2 of eggplant
+Now we have 6
+Planting a single grapefruit
+Now we have 1
+Harvesting a single eggplant
+Now we have 5
+Harvesting a single eggplant
+Now we have 4
+Harvesting a single grapefruit
+Now we have 0
+We don't have enough grapefruit for that. There are only 0 left
+We ended up with 4 purple eggplants
+We ended up with 0 red grapefruits
+```
 
 ---
 # Polymorphism:
-1. XX
-2. XX
+If we create a hierarchy of classes, we can give them personalized methods that share the same names but are independent of each other.
 
-## 1. XX
+For example, we might define a parent class ```Student```, and a method ```doHomework()``` which prints a generalized statement "Doing homework".
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Polymorphism-Student/Student.java#L4-L8
 
+If we want to create subclasses computerScienceStudent and economicsStudent with personalized attributes and methods, we may also want to personalize their inherited methods.
+We can use the same name as the original function but alter what it does:
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Polymorphism-Student/Student.java#L10-L20
 
-## 2. XX
-
+Thus if we create objects of the Student, computerScienceStudent, and economicsStudent classes, and have each object perform its ```doHomework()``` method, three unique statements will be printed.
+https://github.com/SydneyMW/Java-Tutorials/blob/ecf47c344f2a2a536a6d0920fa64bd2842bc9c58/Polymorphism-Student/StudentMain.java#L1-L10
+This will generate the terminal output:
+```
+Doing homework
+Doing programming assignments
+Doing readings
+```
 ---
