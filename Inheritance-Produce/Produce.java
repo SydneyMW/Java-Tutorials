@@ -10,27 +10,27 @@ abstract class Produce {
     private int numPlanted = 0;
 
     // SETTERS
-    public void setName(String Name) {
+    protected void setName(String Name) {
         name = Name;
     }
-    public void setNumPlanted(int Num) {
+    protected void setNumPlanted(int Num) {
         numPlanted = Num;
     }
-    public void setColor(String Color) {
+    protected void setColor(String Color) {
         color = Color;
     }
     
     // GETTERS
-    public String getName() {
+    protected String getName() {
         return name;
     }
-    public int getNumPlanted() {
+    protected int getNumPlanted() {
         return numPlanted;
     }
-    public String getColor() {
+    protected String getColor() {
         return color;
     }
-    public boolean getEdible() {
+    protected boolean getEdible() {
         return edible;
     }
     
