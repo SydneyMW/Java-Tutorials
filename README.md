@@ -1,28 +1,29 @@
 # Java Tutorials:
-1. [**Java Basics**](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#java-basics)
-    * [Printing](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#1-printing)
-    * [Data Types](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-data-types)
-    * [Loops](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#3-loops)
-    * [Arrays](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#4-arrays)
-    * [If Else Statements](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#5-if-else-statements)
-    * [Switch Statements](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#6-switch-statements)
-1. [**Java Classes**](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#java-classes)
-    * [Constructing Classes](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#1-constructing-classes)
-    * [Class Attributes](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-class-attributes)
-    * [Class Methods](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#3-class-methods)
-3. [**Modifiers**](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#modifiers)
-    * [Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#1-access-modifiers)
-    * [Non-Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-non-access-modifiers)
-4. [**Inheritance**](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#inheritance)
-5. [**Polymorphism**](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#polymorpism)
+1. [**Java Basics**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#java-basics)
+    * [Printing](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing)
+    * [Data Types](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-data-types)
+    * [Loops](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-loops)
+    * [Arrays](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#4-arrays)
+    * [If Else Statements](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#5-if-else-statements)
+    * [Switch Statements](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#6-switch-statements)
+1. [**Java Classes**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#java-classes)
+    * [Constructing Classes](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-constructing-classes)
+    * [Class Attributes](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-class-attributes)
+    * [Class Methods](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-class-methods)
+3. [**Modifiers**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#modifiers)
+    * [Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-access-modifiers)
+    * [Non-Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-non-access-modifiers)
+4. [**Inheritance**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#inheritance)
+5. [**Polymorphism**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#polymorpism)
 ---
 # Java Basics:
-1. [Printing](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#1-printing)
-2. [Data Types](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-data-types)
-3. [Arrays](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#3-arrays)
-4. [Loops](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#4-loops)
-5. [If Else Statements](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#5-if-else-statements)
-6. [Switch Statements](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#6-switch-statements)
+https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing
+1. [Printing](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing)
+2. [Data Types](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-data-types)
+3. [Arrays](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-arrays)
+4. [Loops](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#4-loops)
+5. [If Else Statements](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#5-if-else-statements)
+6. [Switch Statements](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#6-switch-statements)
 
 ## 1. Printing
 
@@ -133,9 +134,9 @@ https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11
 
 ---
 # Java Classes:
-1. [Constructing Classes](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#1-constructing-classes)
-1. [Class Attributes](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-class-attributes)
-2. [Class Methods](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#3-class-methods)
+1. [Constructing Classes](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-constructing-classes)
+1. [Class Attributes](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-class-attributes)
+2. [Class Methods](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-class-methods)
 
 ## 1. Constructing Classes
 Suppose we define a class called Construct with attributes x and Name:
@@ -158,7 +159,7 @@ public Construct(int y, String name) {
    Name = name;
 }
 ```
-We can then provide as much or as little information as we like when initializing an object of our Construct class.  We can also change these values after initialization, unless otherwise specified (see [attribute modifiers section](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-non-access-modifiers) for exceptions)
+We can then provide as much or as little information as we like when initializing an object of our Construct class.  We can also change these values after initialization, unless otherwise specified (see [attribute modifiers section](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-non-access-modifiers) for exceptions)
 
 Construct class full example:
 https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/Construct.java#L1-L27
@@ -169,7 +170,7 @@ When we construct classes, we can declare as many attributes as we like. We have
 * Whether to define them in the class, upon initialization, or later
 * Whether they are mutable or immutable
 * Which classes they will be accessible to
-These are specified with [attribute modifiers](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#modifiers)
+These are specified with [attribute modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#modifiers)
 
 In this example, objects of Class2 will be initialized to have a y attribute with the value 6.
 https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/Class2.java#L1-L3
@@ -194,11 +195,11 @@ Static attributes are shared by all members of the same class.  When any object 
 ## 3. Class Methods
 When we construct classes, we can also add functions which an object of that class will be able to perform.
 Similarly to attributes, when we construct classes, we have to decide: 
-* Whether to define them in the class, upon initialization, or in children of the class (see [inheritance section](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#inheritance))
+* Whether to define them in the class, upon initialization, or in children of the class (see [inheritance section](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#inheritance))
 * Whether they are mutable or immutable
 * Which classes they will be accessible to
 
-These are specified with [attribute modifiers](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#modifiers).  If we create a class Produce with private attributes ```color```, ```name```, and ```numPlanted```, we need to define **getter** and **setter** functions on order to access and modify these attributes.
+These are specified with [attribute modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#modifiers).  If we create a class Produce with private attributes ```color```, ```name```, and ```numPlanted```, we need to define **getter** and **setter** functions on order to access and modify these attributes.
 ```
 public class Produce {
    private String color;
@@ -214,8 +215,8 @@ https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11
 
 ---
 # Modifiers: 
-1. [Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#1-access-modifiers)
-2. [Non-Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/edit/master/README.md#2-non-access-modifiers)
+1. [Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-access-modifiers)
+2. [Non-Access Modifiers](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-non-access-modifiers)
 
 
 ## 1. Access Modifiers
