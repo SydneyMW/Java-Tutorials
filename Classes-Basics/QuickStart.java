@@ -38,11 +38,11 @@ class QuickStart {
         int a = Math.max(5,10);
         int b = Math.min(5,10);
         double c = Math.sqrt(64);
-        System.out.println("Math.max(5,10): " + a + " and Math.min(5,10): " + b);
-        System.out.println("Math.sqrt(64): " + c);
         double abs = Math.abs(-4.7);
         double rand = Math.random();
         int rand100 = (int)(Math.random() * 101);
+        System.out.println("Math.max(5,10): " + a + " and Math.min(5,10): " + b);
+        System.out.println("Math.sqrt(64): " + c);
         System.out.println("Math.abs(-4.7): "+abs);
         System.out.println("Math.random(): " + rand);
         System.out.println("(int)(Math.random() * 101): " + rand100);
