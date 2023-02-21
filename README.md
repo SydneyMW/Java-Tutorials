@@ -2,8 +2,8 @@
 1. [**Java Basics**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#java-basics)
     * [Printing](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing)
     * [Data Types](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-data-types)
-    * [Loops](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-loops)
-    * [Arrays](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#4-arrays)
+    * [Arrays](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-arrays)
+    * [Loops](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#4-loops)
     * [If Else Statements](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#5-if-else-statements)
     * [Switch Statements](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#6-switch-statements)
 1. [**Java Classes**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#java-classes)
@@ -17,7 +17,6 @@
 5. [**Polymorphism**](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#polymorpism)
 ---
 # Java Basics:
-https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing
 1. [Printing](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#1-printing)
 2. [Data Types](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#2-data-types)
 3. [Arrays](https://github.com/SydneyMW/Java-Tutorials/blob/master/README.md#3-arrays)
@@ -81,7 +80,15 @@ Casting follows the direction: *double -> float -> long -> int -> char -> short 
 ### Numeric Operations
 https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/QuickStart.java#L38-L43
 
-## 3. Loops
+## 3. Arrays
+
+Simple Array
+https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/QuickStart.java#L153-L162
+
+Multidimensional Array
+https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/QuickStart.java#L165-L172
+
+## 4. Loops
 
 ### For Loops
 Simple Numeric Iteration:
@@ -109,13 +116,6 @@ https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11
 ### Continue
 Continue statements cause the code to skip the rest of the iteration and continue in the loop
 https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/QuickStart.java#L145-L150
-
-## 4. Arrays
-Simple Array
-https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/QuickStart.java#L153-L162
-
-Multidimensional Array
-https://github.com/SydneyMW/Java-Tutorials/blob/b5073aee2775f848e7babea4ce070a11cddad5bd/Classes-Basics/QuickStart.java#L165-L172
 
 ## 5. If Else Statements
 
